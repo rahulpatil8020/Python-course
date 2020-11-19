@@ -9,3 +9,11 @@ Computers understand only __0's__ and __1's__ which is called `Machine Level Lan
 
 
 # Why to Learn Programming?
+
+![](images/why-to-learn-programming.png)
+
+__Programming__ is not for Software Engineers only, it is for `EVERYONE`. It is not about landing job in IT field. It is about improving our problem solving skills and logical thinking. __Programming__ does improve the way we look at problems in our lives. Thus everyone should learn Programming.
+
+# Why Python?
+
+![](images/popular-programming-languages.jpg)
