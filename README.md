@@ -22,4 +22,4 @@ As shown in the chart above, **python** is the most famous programmming language
 
 # Let's Get Started...
 
-![](images\pythonImage.jpg)
+![](images/pythonImage.jpg)
