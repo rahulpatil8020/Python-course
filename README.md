@@ -1,19 +1,25 @@
 # Python-course
+
 # What Is Programming Language?
 
 ![](images/what-is-programming-language.jpg)
 
-Before looking at programming language let's just remind what __Language__ is?
-__Language__ is simply a medium of communication between us _humans_. Similarly a __Programming Language__ is a medium of communication between _humans_ and _computers_.
-Computers understand only __0's__ and __1's__ which is called `Machine Level Language`. we humans don't understand it so we have developed some languages which will work as translator between us and computers and those languages are `Programming Languages`.
-
+Before looking at programming language let's just remind what **Language** is?
+**Language** is simply a medium of communication between us _humans_. Similarly a **Programming Language** is a medium of communication between _humans_ and _computers_.
+Computers understand only **0's** and **1's** which is called `Machine Level Language`. we humans don't understand it so we have developed some languages which will work as translator between us and computers and those languages are `Programming Languages`.
 
 # Why to Learn Programming?
 
 ![](images/why-to-learn-programming.png)
 
-__Programming__ is not for Software Engineers only, it is for `EVERYONE`. It is not about landing job in IT field. It is about improving our problem solving skills and logical thinking. __Programming__ does improve the way we look at problems in our lives. Thus everyone should learn Programming.
+**Programming** is not for Software Engineers only, it is for `EVERYONE`. It is not about landing job in IT field. It is about improving our problem solving skills and logical thinking. **Programming** does improve the way we look at problems in our lives. Thus everyone should learn Programming.
 
 # Why Python?
 
 ![](images/popular-programming-languages.jpg)
+
+As shown in the chart above, **python** is the most famous programmming language and it is also one of the easiest language for beginners. Python has so many _pre-defined libraries_ to help beginners find their way in solving problems. There is no doubt that python is one of the best language to learn and to master.
+
+# Let's Get Started...
+
+![](images\pythonImage.jpg)
