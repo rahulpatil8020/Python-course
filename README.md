@@ -23,3 +23,17 @@ As shown in the chart above, **python** is the most famous programmming language
 # Let's Get Started...
 
 ![](images/pythonImage.jpg)
+
+# Basics
+
+Before taking a deep dive into python we shall discuss some of the basic concepts that are necessary for learning any programming language.
+
+**1. Data**
+`What is data?` This is the most important question every programmer should know the answer of. Data are characteristics or information, usually numerical, that are collected through observation. In a Nutshell, **Data is nothing but all the information around us**.
+
+**2. Operations**
+There are 3 types of Operations used in programming.
+
+- Arithmetic Operations
+- Relational Operations
+- Logical Operations
