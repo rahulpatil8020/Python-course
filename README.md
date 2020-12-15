@@ -41,6 +41,7 @@ There are 3 types of Operations used in programming.
 - Logical Operations
 
 **a. Arithmetic Operations**
+
 There are 7 Arithmetic Operations.
 
 |   Operators   |      Name       |                         Operation                            |
@@ -54,14 +55,15 @@ There are 7 Arithmetic Operations.
 |      **       |      Power      |  Returns nth power of an Operand                             |
 
 **b. Relational Operations**
+
 There are 6 Relational Operations as well.
 
 |   Operators   |      Name       |                         Operation                            |
 | ------------- | --------------- | ------------------------------------------------------------ |
-|       ==      |   Equal         |  Returns true if two operands are equal                                           |
-|       !=      |  Not Equal      |  Returns true if two operands are not equal                                      |
-|       >       | Greater Than    |  Returns true if first operand is greater than second                                     |
-|       <       | Less Than       |  Returns true if first operand is less than second                              |
-|      >=       | Greater or Equal|  Returns true if first operand is greater than or equal to second                             |
+|       ==      |   Equal         |  Returns true if two operands are equal                      |
+|       !=      |  Not Equal      |  Returns true if two operands are not equal                  |
+|       >       | Greater Than    |  Returns true if first operand is greater than second        |
+|       <       | Less Than       |  Returns true if first operand is less than second           |
+|      >=       | Greater or Equal|  Returns true if first operand is greater than or equal to second|
 |      <=       |    Less or Equal|  Returns true if first operand is less than or equal to second   |
 
