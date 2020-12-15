@@ -43,7 +43,12 @@ There are 3 types of Operations used in programming.
 **a. Arithmetic Operations**
 There are 7 Arithmetic Operations.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   Operators   |      Name       |                         Operation                            |
+| ------------- | --------------- | ------------------------------------------------------------ |
+|       +       |   Addition      |  Adds two Operands                                           |
+|       -       |  Subtraction    |  Subtracts two Operands                                      |
+|       *       | Multiplication  |  Multiplies two Operands                                     |
+|       /       | Division(float) |  Divides first Operand by second                             |
+|      //       | Division(floor) |  Divides first Oprands by second                             |
+|      %        |     Modulus     |  Returns remainder when first operand is divided by second   |
+|      **       |      Power      |  Returns nth power of an Operand
