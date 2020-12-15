@@ -51,4 +51,17 @@ There are 7 Arithmetic Operations.
 |       /       | Division(float) |  Divides first Operand by second                             |
 |      //       | Division(floor) |  Divides first Oprands by second                             |
 |      %        |     Modulus     |  Returns remainder when first operand is divided by second   |
-|      **       |      Power      |  Returns nth power of an Operand
+|      **       |      Power      |  Returns nth power of an Operand                             |
+
+**b. Relational Operations**
+There are 6 Relational Operations as well.
+
+|   Operators   |      Name       |                         Operation                            |
+| ------------- | --------------- | ------------------------------------------------------------ |
+|       ==      |   Equal         |  Returns true if two operands are equal                                           |
+|       !=      |  Not Equal      |  Returns true if two operands are not equal                                      |
+|       >       | Greater Than    |  Returns true if first operand is greater than second                                     |
+|       <       | Less Than       |  Returns true if first operand is less than second                              |
+|      >=       | Greater or Equal|  Returns true if first operand is greater than or equal to second                             |
+|      <=       |    Less or Equal|  Returns true if first operand is less than or equal to second   |
+
