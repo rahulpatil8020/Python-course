@@ -39,3 +39,11 @@ There are 3 types of Operations used in programming.
 - Arithmetic Operations
 - Relational Operations
 - Logical Operations
+
+**a. Arithmetic Operations**
+There are 7 Arithmetic Operations.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
